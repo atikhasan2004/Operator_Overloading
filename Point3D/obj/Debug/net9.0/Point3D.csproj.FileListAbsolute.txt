@@ -1,0 +1,14 @@
+E:\VS code\Point3D\bin\Debug\net9.0\Point3D.exe
+E:\VS code\Point3D\bin\Debug\net9.0\Point3D.deps.json
+E:\VS code\Point3D\bin\Debug\net9.0\Point3D.runtimeconfig.json
+E:\VS code\Point3D\bin\Debug\net9.0\Point3D.dll
+E:\VS code\Point3D\bin\Debug\net9.0\Point3D.pdb
+E:\VS code\Point3D\obj\Debug\net9.0\Point3D.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS code\Point3D\obj\Debug\net9.0\Point3D.AssemblyInfoInputs.cache
+E:\VS code\Point3D\obj\Debug\net9.0\Point3D.AssemblyInfo.cs
+E:\VS code\Point3D\obj\Debug\net9.0\Point3D.csproj.CoreCompileInputs.cache
+E:\VS code\Point3D\obj\Debug\net9.0\Point3D.dll
+E:\VS code\Point3D\obj\Debug\net9.0\refint\Point3D.dll
+E:\VS code\Point3D\obj\Debug\net9.0\Point3D.pdb
+E:\VS code\Point3D\obj\Debug\net9.0\Point3D.genruntimeconfig.cache
+E:\VS code\Point3D\obj\Debug\net9.0\ref\Point3D.dll
