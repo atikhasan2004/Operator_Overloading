@@ -1,0 +1,14 @@
+E:\VS code\Operator_Overloading\bin\Debug\net9.0\Operator_Overloading.exe
+E:\VS code\Operator_Overloading\bin\Debug\net9.0\Operator_Overloading.deps.json
+E:\VS code\Operator_Overloading\bin\Debug\net9.0\Operator_Overloading.runtimeconfig.json
+E:\VS code\Operator_Overloading\bin\Debug\net9.0\Operator_Overloading.dll
+E:\VS code\Operator_Overloading\bin\Debug\net9.0\Operator_Overloading.pdb
+E:\VS code\Operator_Overloading\obj\Debug\net9.0\Operator_Overloading.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS code\Operator_Overloading\obj\Debug\net9.0\Operator_Overloading.AssemblyInfoInputs.cache
+E:\VS code\Operator_Overloading\obj\Debug\net9.0\Operator_Overloading.AssemblyInfo.cs
+E:\VS code\Operator_Overloading\obj\Debug\net9.0\Operator_Overloading.csproj.CoreCompileInputs.cache
+E:\VS code\Operator_Overloading\obj\Debug\net9.0\Operator_Overloading.dll
+E:\VS code\Operator_Overloading\obj\Debug\net9.0\refint\Operator_Overloading.dll
+E:\VS code\Operator_Overloading\obj\Debug\net9.0\Operator_Overloading.pdb
+E:\VS code\Operator_Overloading\obj\Debug\net9.0\Operator_Overloading.genruntimeconfig.cache
+E:\VS code\Operator_Overloading\obj\Debug\net9.0\ref\Operator_Overloading.dll
